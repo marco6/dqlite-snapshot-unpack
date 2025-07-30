@@ -2,6 +2,14 @@
 
 A small utility to unpack dqlite snapshots.
 
+## Installation
+
+To install it you can just use typical Go tooling like:
+
+```
+go install github.com/marco6/dqlite-snapshot-unpack@latest
+```
+
 ## Usage
 
 ```
